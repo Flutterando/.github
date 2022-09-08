@@ -1,7 +1,7 @@
 # Welcome to Flutterando, The biggest Flutter community of Brazil
 
 
-![Flutterando][banner_flutterando]
+[![Flutterando][banner_flutterando]](https://www.flutterando.com.br)
 
 <br>
 
@@ -26,11 +26,20 @@ Born in 2018, Flutterando is the biggest and most active Flutter community in La
 
 ## Where can you find the community
 
-- [Discord][Discord]
-- [Telegram][Telegram]
-- [Website][Website]
-- [Youtube Channel][Youtube Channel]
-- [Other useful links][Other useful links]
+[![Discord](https://img.shields.io/discord/509072164666867753?label=Discord&logo=Discord&style=social)][Discord]
+
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?label=Flutterando%20%28in%20portuguese%29&style=social)][Youtube Channel]
+
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC0zjz07GM2Aow4biJyGn43g?label=Fluttering%20%28in%20english%29&style=social)][Youtube Channel]
+
+[![Telegram](https://img.shields.io/badge/Telegram-9k+-green?style=social&logo=telegram)][Telegram]
+
+[![Website](https://img.shields.io/static/v1?label=Web&message=www.flutterando.com.br&color=blue)][Website]
+
+[![Pub Dev](https://img.shields.io/static/v1?label=Pub%20Dev&message=Flutterando&color=red)][Pub Dev]
+
+[![Other useful links](https://img.shields.io/static/v1?label=Other%20Links&message=https://linktr.ee/flutterando&color=green?style=social)][Other useful links]
+
 
 
 <br>
@@ -69,4 +78,5 @@ Born in 2018, Flutterando is the biggest and most active Flutter community in La
 [Telegram]: https://t.me/flutterando
 [Website]: https://www.flutterando.com.br
 [Youtube Channel]: https://www.youtube.com.br/flutterando
+[Pub Dev]: https://pub.dev/publishers/flutterando.com.br/packages
 [Other useful links]: https://linktr.ee/flutterando

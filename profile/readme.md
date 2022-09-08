@@ -1,9 +1,17 @@
 # Welcome to Flutterando, The biggest Flutter community of Brazil
 
 
-![Flutterando][logo_black] 
+![Flutterando][banner_flutterando]
 
-### Our supported projects 👇
+<br>
+
+## About Flutterando
+
+Born in 2018, Flutterando is the biggest and most active Flutter community in Latin America. With over 98 thousand followers divided amongst several media platforms, along with successful projects like the mentorship classes Flutterando InCompanies, where we present Flutter concepts to companies that want to know more about it, and Modular and Triple, packages that gave solutions that are used throughtout the world by the Flutter community, Flutterando's aim is to share the love for Flutter and raise the technical level of it's comunnity and partners, all the while bringing new developers and new content to the Flutter Side. 
+
+<br>
+
+## Our supported projects 👇
 
 - **[Flutter Modular][flutter_modular_link]**: Was built using the engine of modular_core that's responsible for the dependency injection system and route management. 
 - **[Flutter Triple][flutter_triple_link]**: Implementation of the Segmented State Pattern, nicknamed Triple. The SSP segments the state into 3 reactive parts, the state value (state), the error object (error), and the state loading action (loading).
@@ -14,9 +22,36 @@
 - **[Uno][uno_link]**: Uno, inspired by Axios, bringing a simple and robust experience to the crossplatform apps in Flutter and server apps in Dart.
 - **[Dartion][dartion_link]**: Dartion is a RESTful mini web server based on JSON. This is not just a port of the popular json-server for Dart as it adds other features like JWT Authentication.
 
+<br>
 
+## Where can you find the community
+
+- [Discord][Discord]
+- [Telegram][Telegram]
+- [Website][Website]
+- [Youtube Channel][Youtube Channel]
+- [Other useful links][Other useful links]
+
+
+<br>
+
+## Sponsored by
+
+<a href="https://fteam.dev">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/sponsor-logo.png" alt="Logo" width="120">
+  </a>
+
+
+
+<!-- Images -->
 [logo_black]: https://avatars.githubusercontent.com/u/48289443?s=100&u=de5d7e8511a21d986fe4ddf410d6dd474bff3233&v=4
 
+[banner_flutterando]: https://raw.githubusercontent.com/flutterando/.github/main/assets/1128x191.png
+[banner_flutterando1]: https://raw.githubusercontent.com/flutterando/.github/main/assets/1500x500.png
+[banner_flutterando2]: https://raw.githubusercontent.com/flutterando/.github/main/assets/851x315.png
+
+
+<!-- Project Links -->
 [flutter_modular_link]: https://pub.dev/packages/flutter_modular
 [flutter_triple_link]: https://pub.dev/packages/flutter_triple
 [asuka_link]: https://pub.dev/packages/asuka
@@ -27,3 +62,11 @@
 [dartion_link]: https://pub.dev/packages/dartion
 
 [hasura_link]:https://hasura.io
+
+
+<!-- Contact Links (where to find Flutterando) -->
+[Discord]: https://discord.gg/qNBDHNARja
+[Telegram]: https://t.me/flutterando
+[Website]: https://www.flutterando.com.br
+[Youtube Channel]: https://www.youtube.com.br/flutterando
+[Other useful links]: https://linktr.ee/flutterando

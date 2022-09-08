@@ -1,7 +1,7 @@
 # Welcome to Flutterando, The biggest Flutter community of Brazil
 
 
-![Flutterando][logo_black] 
+![Flutterando][logo_black]
 
 ### Our supported projects 👇
 
@@ -16,6 +16,7 @@
 
 
 [logo_black]: https://avatars.githubusercontent.com/u/48289443?s=100&u=de5d7e8511a21d986fe4ddf410d6dd474bff3233&v=4
+[banner_flutterando]: 
 
 [flutter_modular_link]: https://pub.dev/packages/flutter_modular
 [flutter_triple_link]: https://pub.dev/packages/flutter_triple

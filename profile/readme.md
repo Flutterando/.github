@@ -1,4 +1,4 @@
-# Welcome to Flutterando, The biggest Flutter community of Brazil
+# Welcome to **Flutterando**, The biggest Flutter community of Brazil
 
 
 [![Flutterando][banner_flutterando]](https://www.flutterando.com.br)

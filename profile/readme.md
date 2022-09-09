@@ -33,7 +33,7 @@ Born in 2018, Flutterando is the biggest and most active Flutter community in La
 
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?label=Flutterando%20%28in%20portuguese%29&style=social)][Youtube Channel]
 
-[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC0zjz07GM2Aow4biJyGn43g?label=Fluttering%20%28in%20english%29&style=social)][Youtube Channel]
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC0zjz07GM2Aow4biJyGn43g?label=Fluttering%20%28in%20english%29&style=social)][Youtube Channel 2]
 
 [![Telegram](https://img.shields.io/badge/Telegram-9k+-green?style=social&logo=telegram)][Telegram]
 
@@ -82,5 +82,6 @@ Born in 2018, Flutterando is the biggest and most active Flutter community in La
 [Telegram]: https://t.me/flutterando
 [Website]: https://www.flutterando.com.br
 [Youtube Channel]: https://www.youtube.com.br/flutterando
+[Youtube Channel 2]: https://www.youtube.com/channel/UC0zjz07GM2Aow4biJyGn43g
 [Pub Dev]: https://pub.dev/publishers/flutterando.com.br/packages
 [Other useful links]: https://linktr.ee/flutterando
